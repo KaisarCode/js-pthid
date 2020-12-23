@@ -1,6 +1,6 @@
 {
   "name": "kc-pthid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Format path as ID.",
   "main": "index.js",
   "repository": {
