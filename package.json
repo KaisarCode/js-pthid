@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-pthid.git"
+    "url": "https://github.com/kaisarsnippets/js-pthid.git"
   },
   "keywords": [
     "url",
@@ -16,9 +16,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-pthid/issues"
+    "url": "https://github.com/kaisarsnippets/js-pthid/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-pthid",
+  "homepage": "https://github.com/kaisarsnippets/js-pthid",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
